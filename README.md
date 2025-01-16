@@ -10,7 +10,6 @@ I aim to specialize in machine learning engineering, applying cutting-edge techn
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Machine Learning Model Deployment             | <a href="https://github.com/oak/ml-model-deployment">ML Deployment</a> |
 | Real-Time Object Detection                    | <a href="https://github.com/users/OAKVISUALZ/projects/4/views/1">Object Detection System</a> |
 
 
