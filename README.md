@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/olaleye-aanuoluwapo-kayode"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## About Me
-I am a final-year Wood Products and Biomaterials Engineering student at the University of Ibadan, Nigeria, with a strong passion for technology and problem-solving. My journey into machine learning engineering and software development has been driven by a commitment to leveraging technology for impactful solutions.
+I am a final-year Wood and Biomaterials Engineering student at the University of Ibadan, Nigeria. I am passionate about technology and problem-solving. My journey into machine learning engineering and software development has been driven by a commitment to leveraging technology for impactful solutions.
 
 ## Objective
 I aim to specialize in machine learning engineering, applying cutting-edge technology to solve real-world problems across industries such as sustainability, education, and cybersecurity.
@@ -42,9 +42,8 @@ I aim to specialize in machine learning engineering, applying cutting-edge techn
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Coursera_Machine_Learning-2CA5E0?&style=for-the-badge&logo=Coursera&logoColor=white" />
+<img src="https://img.shields.io/badge/-https://www.coursera.org/account/accomplishments/specialization/YZHA9PPIE70J?&style=for-the-badge&logo=Coursera&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Cloud_Skills_Boost-4285F4?&style=for-the-badge&logo=Google-Cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/-RecycleUP_Certificate-3DBE3B?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
