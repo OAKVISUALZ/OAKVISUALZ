@@ -28,10 +28,15 @@ I aim to specialize in machine learning engineering, applying cutting-edge techn
     <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
 </div>
 
-### Tools and Platforms
+#### Cloud Platforms
+<div>
+    <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?&style=for-the-badge&logo=Google-Cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+</div>
+
+### Other Tools
 <div>
     <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google_Colab-F9AB00?&style=for-the-badge&logo=Google-Colab&logoColor=white" />
 </div>
 
