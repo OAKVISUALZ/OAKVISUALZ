@@ -1,5 +1,5 @@
-# Hello, I'm OAK
-<a href="https://linkedin.com/in/oak-profile"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Olaleye Aanuoluwapo Kayode
+<a href="https://www.linkedin.com/in/olaleye-aanuoluwapo-kayode"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## About Me
 I am a final-year Wood Products and Biomaterials Engineering student at the University of Ibadan, Nigeria, with a strong passion for technology and problem-solving. My journey into machine learning engineering and software development has been driven by a commitment to leveraging technology for impactful solutions.
