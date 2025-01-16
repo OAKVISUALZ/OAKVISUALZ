@@ -51,7 +51,7 @@ I aim to specialize in machine learning engineering, applying cutting-edge techn
 </div>
 
 ## Projects
-- **[Object Detection System](https://github.com/users/OAKVISUALZ/projects/4):** A real-time object detection system using pre-trained datasets like COCO and Pascal VOC.
+- **[Object Detection System](https://github.com/OAKVISUALZ/Detection-Lab/tree/main):** A real-time object detection system
 
 ---
 💻 Explore more of my projects on [GitHub](https://github.com/OAKVISUALZ/OAK-Portfolio).
