@@ -42,8 +42,10 @@ I aim to specialize in machine learning engineering, applying cutting-edge techn
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-https://www.coursera.org/account/accomplishments/specialization/YZHA9PPIE70J?&style=for-the-badge&logo=Coursera&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google_Cloud_Skills_Boost-4285F4?&style=for-the-badge&logo=Google-Cloud&logoColor=white" />
+    <a href="https://www.coursera.org/account/accomplishments/specialization/YZHA9PPIE70J" target="_blank">
+        <img src="https://img.shields.io/badge/-Coursera_Specialization-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
+    </a>
+    <img src="https://img.shields.io/badge/-Google_Cloud_Skills_Boost-4285F4?&style=for-the-badge&logo=Google-Cloud&logoColor=white" />
 </div>
 
 ## Projects
