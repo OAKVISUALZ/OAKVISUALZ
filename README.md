@@ -10,7 +10,7 @@ I aim to specialize in machine learning engineering, applying cutting-edge techn
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Real-Time Object Detection                    | <a href="https://github.com/users/OAKVISUALZ/projects/4/views/1">Object Detection System</a> |
+| Real-Time Object Detection                    | <a href="https://github.com/OAKVISUALZ/Detection-Lab/tree/main">Object Detection System</a> |
 
 
 ## Tools
