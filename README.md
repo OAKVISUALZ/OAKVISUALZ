@@ -49,8 +49,6 @@ I aim to specialize in machine learning engineering, applying cutting-edge techn
 
 ## Projects
 - **[Object Detection System](https://github.com/oak/object-detection):** A real-time object detection system using pre-trained datasets like COCO and Pascal VOC.
-- **[Sustainability Project](https://github.com/oak/sustainability-project):** Led initiatives on environmental conservation and education through RecycleEdge and the Green Campus Project.
-- **[Mobile App Development](https://github.com/oak/mobile-app):** Created innovative mobile applications as part of Google Developer Students Club.
 
 ---
-💻 Explore more of my projects on [GitHub](https://github.com/oak).
+💻 Explore more of my projects on [GitHub](https://github.com/OAKVISUALZ/OAK-Portfolio).
