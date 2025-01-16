@@ -11,10 +11,8 @@ I aim to specialize in machine learning engineering, applying cutting-edge techn
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Machine Learning Model Deployment             | <a href="https://github.com/oak/ml-model-deployment">ML Deployment</a> |
-| Real-Time Object Detection                    | <a href="https://github.com/oak/object-detection">Object Detection System</a> |
-| Mobile Application Development                | <a href="https://github.com/oak/mobile-app">Mobile App Project</a> |
-| Data Analysis and Visualization               | <a href="https://github.com/oak/data-analysis">Data Analysis</a> |
-| Project Management and Leadership             | <a href="https://github.com/oak/sustainability-project">Sustainability Project</a> |
+| Real-Time Object Detection                    | <a href="https://github.com/users/OAKVISUALZ/projects/4/views/1">Object Detection System</a> |
+
 
 ## Tools
 ### Machine Learning & Data Science
