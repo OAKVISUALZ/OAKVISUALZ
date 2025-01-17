@@ -11,6 +11,9 @@ I aim to specialize in machine learning engineering, applying cutting-edge techn
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Real-Time Object Detection                    | <a href="https://github.com/OAKVISUALZ/Detection-Lab/tree/main">Object Detection System</a> |
+| Diseases Detection                             | <a href="https://github.com/OAKVISUALZ/Prediction-of-Diabetes">Object Detection System</a> |
+
+
 
 
 ## Tools
@@ -52,6 +55,7 @@ I aim to specialize in machine learning engineering, applying cutting-edge techn
 
 ## Projects
 - **[Object Detection System](https://github.com/OAKVISUALZ/Detection-Lab/tree/main):** A real-time object detection system
+- **[Diabetes Prediction ] (https://github.com/OAKVISUALZ/Prediction-of-Diabetes):** A diabetes prediction system
 
 ---
 💻 Explore more of my projects on [GitHub](https://github.com/OAKVISUALZ/OAK-Portfolio).
