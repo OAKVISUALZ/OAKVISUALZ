@@ -12,6 +12,9 @@ I aim to specialize in machine learning engineering, applying cutting-edge techn
 |-----------------------------------------------|----------------------------|
 | Real-Time Object Detection                    | <a href="https://github.com/OAKVISUALZ/Detection-Lab/tree/main">Object Detection System</a> |
 | Diseases Detection                             | <a href="https://github.com/OAKVISUALZ/Prediction-of-Diabetes">Diabetes Prediction System</a> |
+| Breast cancer Detection                        | <a href="https://github.com/OAKVISUALZ/Breast-Cancer-Prediction/"> Breast cancerPrediction System</a> |
+
+
 
 
 
@@ -56,6 +59,9 @@ I aim to specialize in machine learning engineering, applying cutting-edge techn
 ## Projects
 - **[Object Detection System](https://github.com/OAKVISUALZ/Detection-Lab/tree/main):** A real-time object detection system
 - **[Diabetes Prediction ](https://github.com/OAKVISUALZ/Prediction-of-Diabetes):** A diabetes prediction system
+- **[Breast Cancer Prediction ](https://github.com/OAKVISUALZ/Breast-Cancer-Prediction/):** A breast cancer prediction
+-
+
 
 ---
 💻 Explore more of my projects on [GitHub](https://github.com/OAKVISUALZ/OAK-Portfolio).
