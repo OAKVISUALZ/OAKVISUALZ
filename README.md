@@ -1,4 +1,4 @@
-# He I'm Olaleye Aanuoluwapo Kayode
+# Hel I'm Olaleye Aanuoluwapo Kayode
 <a href="https://www.linkedin.com/in/olaleye-aanuoluwapo-kayode"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## About Me
