@@ -14,7 +14,7 @@
 
 ---
 
-# 👨🏽‍💻 About Me
+# About Me
 
 I'm a Machine Learning Engineer and AI Researcher with an engineering background from the **University of Ibadan**.
 
