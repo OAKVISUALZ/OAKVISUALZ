@@ -24,12 +24,11 @@ My engineering background in experimental science allows me to combine domain kn
 
 ### Current Interests
 
-- 🧠 Machine Learning
-- 🤖 Large Language Models (LLMs)
-- 🌍 Multilingual AI & NLP
-- 🩺 AI for Healthcare
-- 📊 Statistical & Mathematical Modeling
-- 🔬 Explainable AI (XAI)
+- Machine Learning
+- Large Language Models (LLMs)
+- Multilingual AI & NLP
+- AI for Healthcare
+- Statistical & Mathematical Modeling
 - ☁️ Cloud-based Machine Learning
 
 Beyond research, I enjoy building AI products that create meaningful real-world impact.
