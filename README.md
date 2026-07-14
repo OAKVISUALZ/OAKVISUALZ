@@ -96,7 +96,7 @@ Next.js • TypeScript • AI/LLMs • Firebase • Tailwind CSS
 
 ---
 
-## 🧠 AI Meeting Assistant
+## AI Meeting Assistant
 
 An AI-powered meeting assistant that summarizes meetings, extracts action items, and identifies key discussion points.
 
@@ -198,8 +198,7 @@ https://www.linkedin.com/in/olaleye-aanuoluwapo-kayode
 📧 **Email**  
 olaleyeaanuoluwapokay@gmail.com
 
-📸 **Photography**  
-@oak.visualz
+
 
 ---
 
