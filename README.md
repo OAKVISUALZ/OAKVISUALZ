@@ -167,9 +167,6 @@ Python • Regression Analysis • Scikit-Learn
 
 - Machine Learning Specialization — Stanford & DeepLearning.AI
 - Deep Learning Specialization — DeepLearning.AI
-- Google Cloud Data Management
-- Google Cloud Skills Boost
-- CS50x — Harvard University
 
 ---
 
@@ -177,13 +174,13 @@ Python • Regression Analysis • Scikit-Learn
 
 I'm always excited to collaborate on projects involving:
 
-- 🧠 Machine Learning Research
-- 🩺 Healthcare AI
-- 🌍 Multilingual NLP
-- 👁️ Computer Vision
-- 🤖 LLM Applications
-- 🚀 AI Startups
-- 🌱 Open Source
+-  Machine Learning Research
+-  Healthcare AI
+-  Multilingual NLP
+-  Computer Vision
+-  LLM Applications
+-  AI Startups
+-  Open Source
 
 ---
 
