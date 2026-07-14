@@ -1,41 +1,49 @@
 # Hi, I'm Olaleye Aanuoluwapo Kayode (OAK) 👋
 
+<p align="left">
 <a href="https://www.linkedin.com/in/olaleye-aanuoluwapo-kayode">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <img src="https://img.shields.io/badge/AWS-Community%20Builder-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-> Building machine learning systems for healthcare, engineering, and scientific discovery.
+<img src="https://img.shields.io/badge/Black%20in%20AI-Member-black?style=for-the-badge"/>
+</p>
+
+> **Building trustworthy machine learning systems for healthcare, scientific discovery, and Africa.**
 
 ---
 
-## 👨🏽‍💻 About Me
+# 👨🏽‍💻 About Me
 
-I'm an engineering graduate from the **University of Ibadan** exploring how **machine learning**, **statistical modeling**, and **AI** can help solve complex problems across healthcare, materials science, and agriculture.
+I'm a Machine Learning Engineer and AI Researcher with an engineering background from the **University of Ibadan**.
 
-My background combines experimental engineering with modern AI, allowing me to approach problems from both the scientific and computational perspectives.
+My work lies at the intersection of **Machine Learning**, **Healthcare AI**, **Multilingual NLP**, and **Scientific Computing**, where I build intelligent systems that solve practical problems while advancing reliable AI research.
 
-I'm particularly interested in:
+My engineering background in experimental science allows me to combine domain knowledge with modern AI techniques to develop data-driven solutions for complex biological and engineering systems.
+
+### Current Interests
 
 - 🧠 Machine Learning
-- 🤖 Generative AI & LLM Applications
-- 📊 Mathematical & Statistical Modeling
-- 🏥 AI for Healthcare
-- 🌍 AI for Africa
-- 📈 Data Science
+- 🤖 Large Language Models (LLMs)
+- 🌍 Multilingual AI & NLP
+- 🩺 AI for Healthcare
+- 📊 Statistical & Mathematical Modeling
+- 🔬 Explainable AI (XAI)
+- ☁️ Cloud-based Machine Learning
 
-Alongside research, I enjoy building practical AI tools that people can actually use.
+Beyond research, I enjoy building AI products that create meaningful real-world impact.
 
 ---
 
-## 🚀 Currently
+# 🚀 Currently
 
 - ☁️ AWS Community Builder — Machine Learning
+- 🧠 Independent NLP Researcher @ ML Collective
 - 🎓 Graduate Member, Nigerian Society of Engineers (GMNSE)
 - 🚀 Jim Leech Mastercard Foundation Fellow on Entrepreneurship
-- 📚 Learning more about LLMs, AI Agents, MLOps, and scalable ML systems
-- 🌱 Contributing to open-source AI projects
+- 🌍 Member, Black in AI
+- 📚 Exploring LLMs, AI Agents, MLOps, and trustworthy AI systems
 
 ---
 
@@ -53,6 +61,7 @@ Alongside research, I enjoy building practical AI tools that people can actually
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
@@ -67,83 +76,131 @@ Alongside research, I enjoy building practical AI tools that people can actually
 
 # 🚀 Featured Projects
 
-### 🩺 AI Meeting Assistant
-AI-powered meeting assistant that summarizes conversations, extracts key insights, and improves meeting productivity.
+## 💊 Pharmcop *(Flagship Project)*
+
+An AI-powered digital health platform designed to improve access to reliable healthcare information and medication guidance across Africa. Pharmcop leverages modern AI to deliver intelligent, accessible, and user-friendly healthcare solutions.
+
+**Highlights**
+
+- 🩺 AI-powered healthcare assistance
+- 💬 Intelligent conversational experiences
+- 🌍 Built for African healthcare accessibility
+- 📱 Modern full-stack web platform
+- 🚀 Focused on improving digital health delivery
+
+**Tech Stack**
+
+Next.js • TypeScript • AI/LLMs • Firebase • Tailwind CSS
+
+🌐 **Website:** https://pharmcop.com/
+
+---
+
+## 🧠 AI Meeting Assistant
+
+An AI-powered meeting assistant that summarizes meetings, extracts action items, and identifies key discussion points.
+
+**Tech Stack**
+
+Python • Hugging Face • Gradio • LLMs
 
 🔗 https://huggingface.co/spaces/WaveOAK/AImeetingassitant
 
-**Tech:** Python • LLMs • Hugging Face
-
 ---
 
-### 🔄 Python → C++ Converter
+## ⚡ Python → C++ Converter
 
-Converts Python programs into equivalent C++ implementations using Large Language Models.
+Translate Python code into equivalent C++ implementations using Large Language Models.
+
+**Tech Stack**
+
+Python • Transformers • Hugging Face • Gradio
 
 🔗 https://huggingface.co/spaces/WaveOAK/Python-to-CPP-Converter
 
-**Tech:** Python • LLMs • Hugging Face
+---
+
+## 👁️ Detection Lab
+
+Real-time object detection using YOLOv5 for computer vision applications.
+
+**Tech Stack**
+
+Python • PyTorch • YOLOv5 • OpenCV
+
+🔗 https://github.com/OAKVISUALZ/Detection-Lab
 
 ---
 
-### 👁 Detection Lab
+## 🎗️ Breast Cancer Prediction
 
-Real-time object detection using YOLOv5.
+Machine learning models for breast cancer diagnosis using clinical datasets and interpretable classification techniques.
 
-🔗 https://github.com/OAKVISUALZ/Detection-Lab/tree/main
+**Tech Stack**
 
-**Tech:** PyTorch • YOLOv5 • Computer Vision
+Python • Scikit-Learn • Pandas
+
+🔗 https://github.com/OAKVISUALZ/Breast-Cancer-Prediction
 
 ---
 
-### 🩺 Diabetes Prediction
+## 🩺 Diabetes Prediction
 
-Machine learning model for early diabetes prediction.
+Predictive machine learning models for early diabetes risk assessment.
+
+**Tech Stack**
+
+Python • Scikit-Learn • Pandas • NumPy
 
 🔗 https://github.com/OAKVISUALZ/Prediction-of-Diabetes
 
-**Tech:** Scikit-Learn • Python
+---
+
+## 🌿 Bamboo Strength Prediction
+
+Applying machine learning to predict the bonding strength of laminated bamboo composites using experimental engineering data.
+
+**Tech Stack**
+
+Python • Regression Analysis • Scikit-Learn
 
 ---
 
-### 🏗 Bamboo Strength Prediction
-
-Predictive modeling of bonding strength in bamboo laminates using machine learning.
-
-**Tech:** Regression • Scikit-Learn
-
----
-
-## 📚 Certifications
+# 📚 Certifications
 
 - Machine Learning Specialization — Stanford & DeepLearning.AI
 - Deep Learning Specialization — DeepLearning.AI
+- Google Cloud Data Management
 - Google Cloud Skills Boost
-- AWS Machine Learning Learning Paths
+- CS50x — Harvard University
 
 ---
 
-## 🤝 Let's Collaborate
+# 🤝 Let's Collaborate
 
-I'm always interested in collaborating on:
+I'm always excited to collaborate on projects involving:
 
-- Machine Learning Research
-- AI for Healthcare
-- Computer Vision
-- LLM Applications
-- Open Source
-- AI Startups
+- 🧠 Machine Learning Research
+- 🩺 Healthcare AI
+- 🌍 Multilingual NLP
+- 👁️ Computer Vision
+- 🤖 LLM Applications
+- 🚀 AI Startups
+- 🌱 Open Source
 
 ---
 
-## 📫 Reach Me
+# 📫 Connect
 
-💼 LinkedIn  
+💼 **LinkedIn**  
 https://www.linkedin.com/in/olaleye-aanuoluwapo-kayode
 
-📸 Instagram  
+📧 **Email**  
+olaleyeaanuoluwapokay@gmail.com
+
+📸 **Photography**  
 @oak.visualz
 
 ---
 
-> *"Build things that matter. Learn relentlessly. Share generously."*
+> *"Building AI systems that advance science, improve healthcare, and create meaningful impact."*
