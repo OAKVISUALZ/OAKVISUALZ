@@ -35,14 +35,12 @@ Beyond research, I enjoy building AI products that create meaningful real-world 
 
 ---
 
-# 🚀 Currently
+#  Currently
 
-- ☁️ AWS Community Builder — Machine Learning
-- 🧠 Independent NLP Researcher @ ML Collective
-- 🎓 Graduate Member, Nigerian Society of Engineers (GMNSE)
-- 🚀 Jim Leech Mastercard Foundation Fellow on Entrepreneurship
-- 🌍 Member, Black in AI
-- 📚 Exploring LLMs, AI Agents, MLOps, and trustworthy AI systems
+-  AWS Community Builder — Machine Learning
+-  Graduate Member, Nigerian Society of Engineers (GMNSE)
+-  Jim Leech Mastercard Foundation Fellow on Entrepreneurship
+-  Exploring LLMs, AI Agents, MLOps, and trustworthy AI systems
 
 ---
 
@@ -73,7 +71,7 @@ Beyond research, I enjoy building AI products that create meaningful real-world 
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ## 💊 Pharmcop *(Flagship Project)*
 
