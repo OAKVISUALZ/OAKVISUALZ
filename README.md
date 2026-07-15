@@ -79,11 +79,11 @@ An AI-powered digital health platform designed to improve access to reliable hea
 
 **Highlights**
 
-- 🩺 AI-powered healthcare assistance
-- 💬 Intelligent conversational experiences
-- 🌍 Built for African healthcare accessibility
-- 📱 Modern full-stack web platform
-- 🚀 Focused on improving digital health delivery
+- AI-powered healthcare assistance
+- Intelligent conversational experiences
+- Built for African healthcare accessibility
+- Modern full-stack web platform
+- Focused on improving digital health delivery
 
 **Tech Stack**
 
