@@ -22,10 +22,9 @@ My work lies at the intersection of **Machine Learning**, **Healthcare AI**, **M
 
 My engineering background in experimental science allows me to combine domain knowledge with modern AI techniques to develop data-driven solutions for complex biological and engineering systems.
 
-### Current Interests
+### Current Research Interests
 
-- Machine Learning
-- Large Language Models (LLMs)
+- Computer vision
 - Multilingual AI & NLP
 - AI for Healthcare
 - Statistical & Mathematical Modeling
@@ -163,12 +162,6 @@ Python • Regression Analysis • Scikit-Learn
 
 ---
 
-# 📚 Certifications
-
-- Machine Learning Specialization — Stanford & DeepLearning.AI
-- Deep Learning Specialization — DeepLearning.AI
-
----
 
 # 🤝 Let's Collaborate
 
