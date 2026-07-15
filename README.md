@@ -73,7 +73,7 @@ Beyond research, I enjoy building AI products that create meaningful real-world 
 
 # Featured Projects
 
-## 💊 Pharmcop *(Flagship Project)*
+## 💊 Pharmcop 
 
 An AI-powered digital health platform designed to improve access to reliable healthcare information and medication guidance across Africa. Pharmcop leverages modern AI to deliver intelligent, accessible, and user-friendly healthcare solutions.
 
