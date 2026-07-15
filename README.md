@@ -1,4 +1,4 @@
-# Hi, I'm Olaleye Aanuoluwapo Kayode (OAK) 👋
+# Hi, I'm Olaleye Aanuoluwapo Kayode (OAK) 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/olaleye-aanuoluwapo-kayode">
