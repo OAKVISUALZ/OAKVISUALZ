@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Black%20in%20AI-Member-black?style=for-the-badge"/>
 </p>
 
-> **Building trustworthy machine learning systems for healthcare, scientific discovery, and Africa.**
+> **Building trustworthy machine learning systems for healthcare, scientific discovery, from Africa.**
 
 ---
 
