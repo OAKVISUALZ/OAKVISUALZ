@@ -182,8 +182,8 @@ I'm always excited to collaborate on projects involving:
 💼 **LinkedIn**  
 https://www.linkedin.com/in/olaleye-aanuoluwapo-kayode
 
-📧 **Email**  
-olaleyeaanuoluwapokay@gmail.com
+
+
 
 
 
